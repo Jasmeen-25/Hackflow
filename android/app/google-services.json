@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "840195913004",
+    "project_id": "hackflow-f543e",
+    "storage_bucket": "hackflow-f543e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840195913004:android:b97c9d0a2f0d0a4344a889",
+        "android_client_info": {
+          "package_name": "com.example.hackflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840195913004-4cao1ff4k1ehb358tg2ocmlerntg1jbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCer9LyMff6UP6UmHA10KuJaXLslWXZXmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840195913004-4cao1ff4k1ehb358tg2ocmlerntg1jbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "840195913004-i97pg1t2pr00126fpotga3gvk3rsnouk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hackflow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
